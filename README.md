@@ -77,7 +77,7 @@ This is AtliQ Hardware’s **first analytics initiative** using Power BI. After 
 ## 🔗 Access the Full Report
 
 You can download or explore the full `.pbix` file from the repository:
-[🔗 Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOThkODM0MmEtNWQyMS00YzUzLWJkMzEtZmI0MzI2YWQxZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906)
+[🔗 Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0YTFhNjYtZjU3YS00NDU1LWExMTQtMjUzMzExYzFmYjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906)
 
 
 ---
