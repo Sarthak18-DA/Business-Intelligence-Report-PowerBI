@@ -6,7 +6,7 @@ AtliQ Hardware has experienced rapid growth in recent years and is now embracing
 
 ## 🚀 Project Overview
 
-This is AtliQ Hardware’s **first analytics initiative** using Power BI. After facing losses from intuition-based expansion into the American market, the company realized the urgent need for data-driven decision-making — especially as competitors were already leveraging advanced analytics. This dashboard serves as the company’s step forward in adopting a data-first mindset.
+This is AtliQ Hardware’s **first analytics initiative** using Power BI. After facing losses from intuition-based expansion into the American market, the company realized the urgent need for data-driven decision-making especially as competitors were already leveraging advanced analytics. This dashboard serves as the company’s step forward in adopting a data-first mindset.
 
 ---
 
@@ -27,27 +27,27 @@ This is AtliQ Hardware’s **first analytics initiative** using Power BI. After 
 
 ## 🛠️ Tech Stack
 
-✅ Power BI Desktop
-✅ SQL (MySQL)
-✅ Excel
-✅ DAX (Data Analysis Expressions)
-✅ DAX Studio (Performance optimization)
-✅ M Language (for date table)
+* Power BI Desktop
+* SQL (MySQL)
+* Excel
+* DAX (Data Analysis Expressions)
+* DAX Studio (Performance optimization)
+* M Language (for date table)
 
 
 ---
 
 ## 📚 Key Power BI Techniques Learned
 
-- ✅ Data validation & error handling
-- ✅ Creating custom **date tables** using M language
-- ✅ Building relationships with **Snowflake data modeling**
-- ✅ Creating **calculated columns** & **measures** using DAX
-- ✅ Implementing **dynamic titles** based on filters
-- ✅ Using **bookmarks** to toggle between visuals
-- ✅ Conditional formatting (icons, colors)
-- ✅ Button-based **page navigation**
-- ✅ Publishing reports to Power BI Service
+- Data validation & error handling
+- Creating custom **date tables** using M language
+- Building relationships with **Snowflake data modeling**
+- Creating **calculated columns** & **measures** using DAX
+- Implementing **dynamic titles** based on filters
+- Using **bookmarks** to toggle between visuals
+- Conditional formatting (icons, colors)
+- Button-based **page navigation**
+- Publishing reports to Power BI Service
 
 ---
 
